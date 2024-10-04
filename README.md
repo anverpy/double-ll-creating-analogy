@@ -1,0 +1,1 @@
+# Estoy haciendo un curso avanzado de Python... Así que me pareció interesante el tema de las listas enlazadas. Le pedí a un amigo inteligente que hiciera una analogía. Estoy reforzando mis conocimientos con la ayuda de [Data Scientist en Udemy](https://www.udemy.com/user/bilal-khan-104/). ¿Tienes alguna opinión sobre este autor?
